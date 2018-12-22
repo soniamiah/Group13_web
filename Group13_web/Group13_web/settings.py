@@ -25,7 +25,7 @@ SECRET_KEY = 'wpv!rnwwyng68+d%d6o6k%f7_9t&py!!eh&%u#&d&$rk9kv9$2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [‘0.0.0.0’, ‘localhost’]
+ALLOWED_HOSTS = [‘0.0.0.0’, ‘localhost’, 'calm-plains-59136.herokuapp.com']
 
 
 # Application definition
