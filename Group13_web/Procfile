@@ -1,1 +1,1 @@
-web: gunicorn sampledeploy.wsgi —-log-file -
+web: gunicorn Group13_web.wsgi —-log-file -
